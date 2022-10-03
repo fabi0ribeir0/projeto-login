@@ -60,6 +60,13 @@ form > div.campo {
     padding-bottom: 5px;
 }
 
+div.campo > i {
+background-color: ;
+padding: 5px;
+font-size: 2em;
+
+}
+
 .campo label {
     display: none;
 }
